@@ -1,0 +1,7 @@
+.form-floating .form-control-lg {
+    height: auto; /* Ensures the textarea height adjusts correctly */
+}
+
+textarea.form-control-lg {
+    border: 2px solid black
+}
