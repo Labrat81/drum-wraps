@@ -5,10 +5,21 @@ h1.contact-page {
     padding-bottom: 20px;
 }
 
+h1.wrap-process {
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .form-floating .form-control-lg {
     height: auto; /* Ensures the textarea height adjusts correctly */
 }
 
 textarea.form-control-lg {
     border: 2px solid black
+}
+
+.labrat-logo {
+    height: 500px;
 }
