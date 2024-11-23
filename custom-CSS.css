@@ -23,3 +23,8 @@ textarea.form-control-lg {
 .labrat-logo {
     height: 500px;
 }
+
+.carousel-inner img {
+    height: 800px; /* Adjust height as needed */
+    object-fit: contain; /* Ensure the image fills the space while keeping proportions */
+}
