@@ -1,0 +1,30 @@
+h1.contact-page {
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1.wrap-process {
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form-floating .form-control-lg {
+    height: auto; /* Ensures the textarea height adjusts correctly */
+}
+
+textarea.form-control-lg {
+    border: 2px solid black
+}
+
+.labrat-logo {
+    height: 500px;
+}
+
+.carousel-inner img {
+    height: 800px; /* Adjust height as needed */
+    object-fit: contain; /* Ensure the image fills the space while keeping proportions */
+}
